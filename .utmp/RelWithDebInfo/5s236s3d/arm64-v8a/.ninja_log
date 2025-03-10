@@ -1,0 +1,23 @@
+# ninja log v5
+1	2592	7632970568412414	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	23edd483ee8ff7c9
+59	826	7632970550906072	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d708e3a0c03f8ff
+829	1443	7632970555535479	C:/Users/Omkar/Documents/Unity Projects/Food fight/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5s236s3d/obj/arm64-v8a/libswappywrapper.so	abf3d08470d16fe
+39	1868	7632970561822870	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	1bf947b769ae200
+27	1872	7632970561822870	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	77581f72ba565a2e
+52	1979	7632970562921760	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e34aabdd508d1cad
+2593	2992	7632970572475140	C:/Users/Omkar/Documents/Unity Projects/Food fight/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5s236s3d/obj/arm64-v8a/libgame.so	75bcf62cd49c0041
+15	1873	7632970561942878	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	fa58e6e60efaffaa
+21	2042	7632970563681761	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	95eb7e75c172df6a
+45	1977	7632970561972890	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	dec8b41d6d789ca0
+33	2317	7632970566082767	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	927f0821349b1b12
+56	591	7633326310382792	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d708e3a0c03f8ff
+592	1091	7633326315733180	C:/Users/Omkar/Documents/Unity Projects/Food fight/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5s236s3d/obj/arm64-v8a/libswappywrapper.so	abf3d08470d16fe
+39	1745	7633326321973674	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	1bf947b769ae200
+25	1749	7633326322068988	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	fa58e6e60efaffaa
+47	1765	7633326322248994	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	dec8b41d6d789ca0
+34	1849	7633326323168939	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	77581f72ba565a2e
+52	1853	7633326323228967	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e34aabdd508d1cad
+30	1943	7633326324108971	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	95eb7e75c172df6a
+43	2199	7633326326628960	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	927f0821349b1b12
+14	2418	7633326328808944	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	23edd483ee8ff7c9
+2418	2604	7633326330378968	C:/Users/Omkar/Documents/Unity Projects/Food fight/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5s236s3d/obj/arm64-v8a/libgame.so	75bcf62cd49c0041
